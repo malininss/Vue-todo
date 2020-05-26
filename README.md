@@ -1,6 +1,8 @@
-# vue-project
+# Simple todo vue-project
 
-## Project setup
+This is simple todo application for learning Vue.js
+
+##### Project setup
 ```
 npm install
 ```
@@ -14,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
